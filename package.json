@@ -1,0 +1,17 @@
+{
+  "name": "bitcoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcore-lib": "^8.25.40",
+    "bitcore-mnemonic": "^8.25.40",
+    "express": "^4.18.2"
+  }
+}
